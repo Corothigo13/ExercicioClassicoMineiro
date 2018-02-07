@@ -1,0 +1,6 @@
+C:\Users\Thiago\Desktop\AED\Classico Mineiro\Classico Mineiro\bin\Debug\Classico Mineiro.exe.config
+C:\Users\Thiago\Desktop\AED\Classico Mineiro\Classico Mineiro\bin\Debug\Classico Mineiro.exe
+C:\Users\Thiago\Desktop\AED\Classico Mineiro\Classico Mineiro\bin\Debug\Classico Mineiro.pdb
+C:\Users\Thiago\Desktop\AED\Classico Mineiro\Classico Mineiro\obj\Debug\Classico Mineiro.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\AED\Classico Mineiro\Classico Mineiro\obj\Debug\Classico Mineiro.exe
+C:\Users\Thiago\Desktop\AED\Classico Mineiro\Classico Mineiro\obj\Debug\Classico Mineiro.pdb
